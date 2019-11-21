@@ -1,10 +1,10 @@
 {
-  "name": "rn-splash-screen",
+  "name": "rn-splash-screen-fixed",
   "version": "5.2.0",
   "description": "A JavaScript-controlled splash-screen designed to be run directly after the native splash-screen.",
   "main": "index.js",
   "author": {
-    "name": "Ryan Leckey",
+    "name": "Ryan Leckey, fixed by malik",
     "email": "leckey.ryan@gmail.com"
   },
   "license": "MIT",
@@ -20,12 +20,12 @@
     "hide",
     "mobile"
   ],
-  "homepage": "https://github.com/mehcode/rn-splash-screen",
+  "homepage": "https://github.com/stoneli88/rn-splash-screen.git",
   "bugs": {
-    "url": "https://github.com/mehcode/rn-splash-screen/issues"
+    "url": "https://github.com/stoneli88/rn-splash-screen.git/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mehcode/rn-splash-screen.git"
+    "url": "git://github.com/stoneli88/rn-splash-screen.git"
   }
 }
